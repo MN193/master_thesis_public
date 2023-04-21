@@ -1,0 +1,20 @@
+# Byte-compiled
+__pycache__/
+
+# maintain folder structure
+!.gitkeep
+
+# local folders
+00_Licences/
+01_Literature/
+02_Data/
+03_Stddev_Analyziation + Plots/
+04_Baseline Regression/
+old/
+
+# private files
+databases/nistthermo_srcfordb - Kopie.txt
+databases/nistthermo_srcfordb.txt
+databases/Periodic Table of Elements.csv
+databases/Tabellen der empfindlichsten Emissionslinien der Elemente.pdf
+databases/Thermofisher.xlsx
