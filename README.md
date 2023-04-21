@@ -3,8 +3,8 @@ The aim of the master thesis is the empircal simulation of LIBS spectra.
 
 ## Project structure
 * ``data``: data of datasets
-* ``databases``: databases to identify spectral lines
   * the single data files should be stored according to: data/raw txt data/datasetname/datasetname_EXmJ_GdXus.txt
+* ``databases``: databases to identify spectral lines
 * ``images``: image output
 * ``lib``: library with custom build modules for performing the master thesis
   * ``datalayers.py``: module used to represent the layers of data (dataset, condition, spectrum)
