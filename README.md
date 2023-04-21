@@ -18,7 +18,7 @@ The aim of the master thesis is the empircal simulation of LIBS spectra.
   * ``ERM-EB316``: summary of AlSi12 dataset
   * ``SUS-1R``: summary of low allowed steel dataset
   * ``journal``: description of applied principles, thoughts, conclusions
-  * ``build_database`` : merges the atomtrace and imagelab databases
+  * ``merge_database`` : merges the atomtrace and imagelab databases
 * ``results``: csv files of the output
 * ``temp``: temporary stored pickle objects to cut computation time
 * ``test``: scripts/notebooks to test and implement new functions
